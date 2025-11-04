@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "qwiklabs-gcp-00-239747b3a87c"
-  }
+    "default": "qwiklabs-gcp-00-faa939cf96d3"
+  },
+  "targets": {},
+  "etags": {}
 }
